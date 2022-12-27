@@ -1,0 +1,65 @@
+.user {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 4%;
+  margin-left: 20%;
+  flex-direction: column;
+  border: solid 2px black;
+  width: 750px;
+  height: 1100px;
+  border-radius: 2%;
+}
+.Bredpost {
+  flex-wrap: wrap;
+  border-radius: 100%;
+  width: 10%;
+  margin-top: 2%;
+  margin-left: 1%;
+}
+.more {
+  position: absolute;
+  top: 1%;
+  margin-top: 1%;
+  margin-left: 90%;
+}
+
+.hr {
+  border: solid 1px black;
+}
+
+.Post {
+  flex-wrap: wrap;
+  align-self: center;
+  border-top-width: 20%;
+  width: 750px;
+  height: 600px;
+  margin-top: 7.5%;
+}
+
+.like {
+  margin-left: 1%;
+}
+
+.comment {
+  margin-left: 2%;
+}
+.tel {
+  margin-left: 3%;
+}
+.save {
+  margin-left: 90%;
+  margin-top: 1%;
+}
+
+.commnetinput {
+  margin-top: 7%;
+  margin-left: 10%;
+  width: 70%;
+  height: 12%;
+  border-radius: 10px;
+}
+
+h2 {
+  margin-left: 20%;
+  margin-top: 1%;
+}
